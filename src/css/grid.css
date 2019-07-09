@@ -70,6 +70,12 @@
 	}
 }
 
+@media ( max-width: 660px ){
+	.show-wpadmin-drawer .amigrid-overlay-container {
+		margin: 0 16px;
+	}
+}
+
 @media ( min-width: 661px ){
 	.amigrid-overlay-container {
 		margin: 0 24px;
